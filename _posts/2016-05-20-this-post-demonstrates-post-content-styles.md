@@ -2,7 +2,7 @@
 layout: page
 title: "2020年9月10日"
 date:   2020-09-10 21:21:21 +0530
-categories: 垃圾文章
+categories: 笔记文章
 author: "Bart Simpson"
 meta: "Springfield"
 ---
