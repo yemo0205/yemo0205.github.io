@@ -1,16 +1,24 @@
 ---
 layout: page
-title:  "文章规则"
-subtitle: "副标题"
-date:   2020-09-10 21:21:21 +0530
-categories: ["一般文章"]
+title:  "2020年9月8日"
+date:   2020-09-8 21:21:21 +0530
+categories: ["笔记文章"]
 ---
+# php学习笔记
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+> - git定义:
+>     - 1.将本地代码推送到远程版本仓库(中转站）
+>     - 远程版本仓库指网站(github)等 
+>     - 2.分支管理(复制品)
+>     
+> - 计算机操作系统排名前三的有mac、linux、windows，但都是从unix衍生变异出来的
+> 
+> - 命令行工具:(bash)
+>     - 1.解释命令——>指定你要做的事情
+>     - 2.软件名——>用哪个软件去做
+> - 只有本地版本库中的代码才能推送到远程版本仓库中
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
-
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+> - markdow 标记语言
+> - init    初始化本地版本库     本地版本库有暂存区跟本地库
+> - status  查看本地版本库状态
+> - clone   克隆
