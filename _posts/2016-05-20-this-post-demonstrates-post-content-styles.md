@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "这篇文章演示了帖子内容样式"
-subtitle: "This is a subtitle"
+title: "文章的演示文稿"
+subtitle: "副标题"
 date:   2020-09-10 21:21:21 +0530
-categories: junk
+categories: 垃圾文章
 author: "Bart Simpson"
 meta: "Springfield"
 ---
