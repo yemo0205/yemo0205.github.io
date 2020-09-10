@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 老板们好
+title: 各位老板们好
 subtitle: 欢迎老板们的到来
 sitemap:
   priority: 0.9
@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>这是一个来自在自闭峡谷中被咩咩子暴打的老仓鼠所建立的个人博客</p>
-	<p>欢迎各位老板来看咸鱼的日常博客 <strong> <a href="https://github.comyemo0205/yemo0205.github.io"> repository</a> </strong></p>
+	<p>欢迎各位老板来看咸鱼的 <strong> <a href="https://github.comyemo0205/yemo0205.github.io">日常仓库</a> </strong></p>
 </div>

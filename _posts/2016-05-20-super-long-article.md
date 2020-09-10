@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Some articles are just so long they deserve a really long title to see if things will break well"
+title:  "有些文章篇幅太长了，它们应该有一个很长的标题，以查看情况是否会好转"
 subtitle: "A shorter explanation of stuff"
-date:   2016-05-20 21:21:21 +0530
+date:   2020-09-10 21:21:21 +0530
 categories: misc
 ---
 
