@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "020年9月9日"
+title:  "2020年9月9日"
 date:   2020-09-9 17:44:44 +0530
 categories: ["笔记文章"]
 ---
