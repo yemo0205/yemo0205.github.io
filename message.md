@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 留言板
-subtitle: 请输入
+title: 咸鱼留言板
+subtitle: 欢迎使用
 ---
 
 <div>
-    <p>欢迎使用咸鱼留言板</p>
+    <p>请输入</p>
+    <p></p>
 </div>
