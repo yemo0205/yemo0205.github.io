@@ -42,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color: #16a085; }
+    color: #c6b4f0; }
 
   .wrapper {
     max-width: 90%;
@@ -58,7 +58,7 @@
   .logo {
     font-size: 300%;
     font-weight: 700;
-    color: #16a085;
+    color: #c6b4f0;
     display: block; }
 
   .menu {
@@ -143,7 +143,8 @@
     letter-spacing: 9.09px; }
 
   .about__text {
-    font-size: 100%; }
+    font-size: 100%; 
+    color: darkred;}
 
   .center-text {
     text-align: center;
