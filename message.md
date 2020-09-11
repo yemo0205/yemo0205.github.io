@@ -1,5 +1,5 @@
 ---
-layout: qrw
+layout: page
 title: 留言板
 subtitle: 请输入
 ---
